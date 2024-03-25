@@ -1,0 +1,2 @@
+# SQL_assignment_Using_SQL_to_analyze_data(DDL, DML)
+ Solve_various_queries_using_CSV_data
